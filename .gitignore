@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+out
+testNG-practice.iml
+.gitignore
+.idea
